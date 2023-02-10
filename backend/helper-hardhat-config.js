@@ -3,6 +3,8 @@ const networkConfig = {
     name: "localhost",
     wethToken: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     lendingPoolAddressesProvider: "0xB53C1a33016B2DC2fF3653530bfF1848a515c8c5",
+    //for V3
+    PoolAddressesProvider: "0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e",
     daiEthPriceFeed: "0x773616E4d11A78F511299002da57A0a94577F1f4",
     daiToken: "0x6b175474e89094c44da98b954eedeac495271d0f",
   },
@@ -13,6 +15,8 @@ const networkConfig = {
     wethToken: "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
     // This is the AaveV2 Lending Pool Addresses Provider
     lendingPoolAddressesProvider: "0x5E52dEc931FFb32f609681B8438A51c675cc232d",
+    //for V3
+    PoolAddressesProvider: "0xC911B590248d127aD18546B186cC6B324e99F02c",
     // This is LINK/ETH feed
     daiEthPriceFeed: "0xb4c4a493AB6356497713A78FFA6c60FB53517c63",
     // This is the LINK token
